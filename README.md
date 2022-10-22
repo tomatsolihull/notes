@@ -8,8 +8,3 @@ Notes about Solihull-specific things like Assignments/Tasks/Dates/etc should be 
 Will be archived and content migrated to a new GitHub organisation when I end up at Uni.
 
 Trying to be [conceptual](https://youtu.be/MYJsGksojms). 
-
----
-
-> **Some notes were not written at-the-time.**
-> They are instead a new summary of key information taken from past assignments and current knowledge. They (should (hopefully)) be marked as such.

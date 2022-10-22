@@ -1,0 +1,3 @@
+- A finite list of strict instructions to solve a problem
+- Runs in a sequence with an input and an output
+- Not just applicable to computing - a recipe is a type of algorithm
