@@ -1,0 +1,2 @@
+- To store decimal numbers in a [[Binary]] format, it is necessary to convert them to a standardised format. One of the options for doing this is floating point numbers, where numbers are stored as a fixed length with an exponent and a mantissa element.  
+- This is covered by the IEEE 754 standard.
