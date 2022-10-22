@@ -1,0 +1,1 @@
+Stores data using magnetic charges. Aside from hard drives, other examples would be tape (such as LTO or audio cassette) and floppy disks.

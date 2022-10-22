@@ -4,7 +4,7 @@
 > **Solihull** Unit 1, Assignment 1, Task 4
 
 ## Security, Privacy
-- [[Summaries/Big Data]] including tracking and fingerprinting reduces user privacy
+- [[Big Data]] including tracking and fingerprinting reduces user privacy
 - Mishandling of [[Personally Identifiable Information]]
 - Stolen, unsecured devices (Email, social media, browsing, messages)
 - Malicious access anxiety (webcam, mic)
@@ -37,3 +37,10 @@
 ### Cons
 - No need to travel to purchase goods or meet friends
 - Dependence on screens disrupts sleep
+
+---
+
+## [[E-Commerce#Benefits]]
+
+
+## [[E-Commerce#Drawbacks]]

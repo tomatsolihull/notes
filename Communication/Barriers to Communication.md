@@ -45,7 +45,7 @@
 
 # Lack of Understanding or Knowledge
 - Use appropriate terminology
-- Adjust based on knowledge and skillset of audience ([[Summaries/Communication#Adaptability]])
+- Adjust based on knowledge and skillset of audience ([[Communication/Communication#Adaptability]])
 - Be prepared to answer questions on-the-fly
 - Try not to come across as patronising to a knowledgeable audience
 

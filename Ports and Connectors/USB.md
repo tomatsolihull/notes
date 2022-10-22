@@ -1,0 +1,1 @@
+Universal Serial Bus for connecting external devices. Varying connector types – A/B/C. Differing versions – USB 2 at 480Mbps maximum, USB 3.2 at 20Gbps maximum, USB 4 at 40Gbps maximum.

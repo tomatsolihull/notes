@@ -4,6 +4,7 @@
 - Large and complicated datasets
 - Large scale, vast quantity
 - May need special tools to analyse
+- May contain [[Personally Identifiable Information]]
 
 ## Sources
 - Analytics & Tracking

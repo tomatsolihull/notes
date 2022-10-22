@@ -1,0 +1,1 @@
+Prevents unauthorised access to computer systems ([[Hacking]]) as well as unauthorised access with intent to commit further offences. It additionally covers unauthorised modification of computer material and making, supplying, or obtaining anything which can be used in computer misuse offences.

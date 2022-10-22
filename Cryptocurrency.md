@@ -1,0 +1,3 @@
+- Cryptocurrency relies on blockchain technology, where all crypto users share a “ledger” of transactions and payments.
+- There are many different cryptocurrencies, the most popular being [[Bitcoin]] and [[Ethereum]].
+- Exchanges such as Coinbase offer merchant solutions for accepting many cryptocurrencies

@@ -11,5 +11,5 @@ Trying to be [conceptual](https://youtu.be/MYJsGksojms).
 
 ---
 
-> **Notes in *Summaries* were not written at-the-time.**
-> They are instead a new summary of key information taken from past assignments and current knowledge
+> **Some notes were not written at-the-time.**
+> They are instead a new summary of key information taken from past assignments and current knowledge. They (should (hopefully)) be marked as such.

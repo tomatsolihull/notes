@@ -8,7 +8,7 @@
 - Changing content and delivery style to suit audience  
 - When talking to adults, one may use a broader and more sophisticated vocabulary
 - Making sure audience understands any technical content
-- Knowledge of different [[Summaries/VAK Learning Styles]]
+- Knowledge of different [[Communication/VAK Learning Styles]]
 
 ###  Cultural Differences
 - Holidays

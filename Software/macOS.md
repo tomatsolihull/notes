@@ -1,0 +1,1 @@
+Developed by Apple for Macs, the macOS [[Software/Operating System]] is [[Proprietary]]

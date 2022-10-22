@@ -19,7 +19,7 @@
 
 ## Good Working Procedures
 
-### [[Health & Safety]]
+### [[Health & Safety/Health & Safety]]
 - Top concern is keeping workplace safe
 - First Aid qualification can make you appear more valuable
 
@@ -42,7 +42,7 @@
 
 ### Literacy & Numeracy
 - Everyday life relies on confident reading/writing/mathematic ability
-- Fluency allows more effective [[Summaries/Communication]]
+- Fluency allows more effective [[Communication/Communication]]
 
 ###  Punctuality
 - Seen as reliable

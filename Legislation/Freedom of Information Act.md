@@ -1,0 +1,1 @@
+The FoI Act gives the public the right to request information held about themselves as well as other information from public bodies such as local councils, the government and educational institutions.
