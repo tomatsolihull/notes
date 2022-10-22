@@ -4,22 +4,35 @@
     "type": "split",
     "children": [
       {
-        "id": "3b92c3b0e5e99c0f",
+        "id": "41cd6b711854db90",
         "type": "tabs",
         "children": [
           {
-            "id": "ea6e66f5991b3be3",
+            "id": "3cdd618abaa22f30",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "Summaries/Communication.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "3550492a039dd323",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Personally Identifiable Information.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "stacked": true
       }
     ],
     "direction": "vertical"
@@ -48,7 +61,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#btec-it-u",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -85,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "Summaries/Communication.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "Summaries/Communication.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "Summaries/Communication.md"
               }
             }
           }
@@ -139,6 +152,17 @@
   "ribbon": {
     "mostRecentAction": ""
   },
-  "active": "ea6e66f5991b3be3",
-  "lastOpenFiles": []
+  "active": "3cdd618abaa22f30",
+  "lastOpenFiles": [
+    "Summaries/Impact of IT.md",
+    "Summaries/Skills Valued by Employers.md",
+    "Summaries/VAK Learning Styles.md",
+    "Summaries/Big Data.md",
+    "Summaries/Communication.md",
+    "Personally Identifiable Information.md",
+    "Health & Safety.md",
+    "Physical Health.md",
+    "Maintenance Routine.md",
+    "Portable Appliance Testing.md"
+  ]
 }
