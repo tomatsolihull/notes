@@ -1,1 +1,0 @@
-Is read with a laser, with data stored physically as differences in colour or texture. CDs, DVDs and Blu-Rays are all examples of optical media.

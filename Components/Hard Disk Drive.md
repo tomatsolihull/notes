@@ -1,1 +1,0 @@
-Are mechanical devices that have many metal platters inside. These platters are coated with magnetic material which is magnetised or demagnetised by heads while they are spinning at high speed. While slower than newer SSDs, they come in larger capacities and often cost significantly less. Hard Disk Storage brands include Western Digital, Seagate, Toshiba and HGST.

@@ -11,5 +11,6 @@
   "useMarkdownLinks": false,
   "showUnsupportedFiles": true,
   "attachmentFolderPath": "./",
-  "alwaysUpdateLinks": true
+  "alwaysUpdateLinks": true,
+  "promptDelete": false
 }

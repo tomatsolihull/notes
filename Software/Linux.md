@@ -1,1 +1,0 @@
-Linux is the [[Open Source]] kernel shared by a wide variety of "Distros"

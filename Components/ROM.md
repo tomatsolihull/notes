@@ -1,1 +1,0 @@
-Read-only-Memory is data storage that cannot be randomly written to. An example of ROM being used is the computer’s firmware and BIOS, though this can be updated to solve bugs and issues by re-flashing the entire chip.

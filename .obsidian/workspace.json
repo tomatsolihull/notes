@@ -4,14 +4,14 @@
     "type": "split",
     "children": [
       {
-        "id": "2ba8687fd7f84a20",
+        "id": "ba3296f84ec477a0",
         "type": "tabs",
         "children": [
           {
-            "id": "d48d24b54ebf8e8e",
+            "id": "a726adbe700f90e2",
             "type": "leaf",
             "state": {
-              "type": "graph",
+              "type": "empty",
               "state": {}
             }
           }
@@ -132,17 +132,17 @@
   "ribbon": {
     "mostRecentAction": ""
   },
-  "active": "d48d24b54ebf8e8e",
+  "active": "a726adbe700f90e2",
   "lastOpenFiles": [
+    "Big Data.md",
+    "E-Commerce.md",
+    "Cryptocurrency.md",
+    "Payment Methods.md",
     "Health & Safety/Health & Safety.md",
     "Legislation.md",
     "Proprietary.md",
     "Communication/Barriers to Communication.md",
-    "Big Data.md",
     "Sound.md",
-    "Ports and Connectors/Sound Output.md",
-    "Open Source.md",
-    "Software/macOS.md",
-    "Legislation/E-Commerce Regulations.md"
+    "Ports and Connectors/Sound Output.md"
   ]
 }

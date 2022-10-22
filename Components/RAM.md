@@ -1,2 +1,0 @@
-Random Access Memory is where a computer stores data that is currently processing or is likely to need soon. RAM is volatile, which means when power is lost its contents do not remain.  
-Contains DRAM chips (dynamic RAM) which have a higher latency than SRAM chips found in CPUs, though they are significantly less expensive since they require continual refreshing. Sizes per stick (module) is between 2 and 512GB. DRAM chip brands include Micron and Samsung.

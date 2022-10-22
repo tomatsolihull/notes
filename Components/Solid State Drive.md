@@ -1,1 +1,0 @@
-Store data without any moving parts, making them more resilient than HDDs. They are also faster and have lower access times (latency), however larger capacity drives are very expensive when compared with HDDs. SSD brands include Western Digital, Samsung and Micron.
