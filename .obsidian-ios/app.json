@@ -1,1 +1,9 @@
-{}
+{
+  "defaultViewMode": "preview",
+  "livePreview": false,
+  "showFrontmatter": true,
+  "showLineNumber": true,
+  "spellcheck": true,
+  "showUnsupportedFiles": true,
+  "attachmentFolderPath": "/"
+}

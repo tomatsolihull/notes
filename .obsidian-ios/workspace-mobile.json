@@ -11,8 +11,12 @@
             "id": "2f62974a2d3d1d3f",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Denary (Decimal).md",
+                "mode": "preview",
+                "source": true
+              }
             }
           }
         ]
@@ -81,6 +85,7 @@
         "state": {
           "type": "backlink",
           "state": {
+            "file": "Denary (Decimal).md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -97,6 +102,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
+            "file": "Denary (Decimal).md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -107,15 +113,20 @@
         "type": "leaf",
         "state": {
           "type": "outline",
-          "state": {}
+          "state": {
+            "file": "Denary (Decimal).md"
+          }
         }
       }
     ],
     "currentTab": 0
   },
   "ribbon": {
-    "mostRecentAction": ""
+    "mostRecentAction": "Open graph view"
   },
-  "active": "2f62974a2d3d1d3f",
-  "lastOpenFiles": []
+  "active": "5872c4c46afff693",
+  "lastOpenFiles": [
+    "Bandwidth.md",
+    "Binary.md"
+  ]
 }
