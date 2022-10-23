@@ -1,7 +1,7 @@
 - To store decimal numbers in a [[Binary]] format, it is necessary to convert them to a standardised format. One of the options for doing this is floating point numbers.
 - There are many different [[Standards]] and formats for storing floating point numbers
 
-# IEEE 754
+# [[IEEE]] [754](https://ieeexplore.ieee.org/search/searchresult.jsp?queryText=754%20Standard%20for%20Floating-Point%20Arithmetic&highlight=true&returnType=SEARCH&matchPubs=true&refinements=ContentType:Standards&returnFacets=ALL&sortType=newest)
 - Numbers are stored as a fixed length with an exponent and a mantissa element.  
 - **Half** = 16 bits = binary16
 - **Single** = 32 bits = binary32

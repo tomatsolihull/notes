@@ -1,11 +1,11 @@
 #networking
 # Dynamic Host Configuration Protocol
 
-- Distributes [[IP Address]]es and other information to hosts on a network
+- Distributes [[IP]] Addresses and other information to hosts on a network
 - Uses [[UDP]] Port 67 on server, 68 on client
 
 ## The Process
-More detail [on Wikipedia](https://en.wikipedia.org/wiki/Dynamic_Host_Configuration_Protocol) and within [RFC 2131](https://datatracker.ietf.org/doc/html/rfc2131#section-3)
+More detail [on Wikipedia](https://en.wikipedia.org/wiki/Dynamic_Host_Configuration_Protocol) and within [[IETF#RFC]] [RFC 2131](https://datatracker.ietf.org/doc/html/rfc2131#section-3)
 
 ### 1. DHCPDISCOVER (client broadcast)
 From client to broadcast address to 'discover' DHCP servers on a network

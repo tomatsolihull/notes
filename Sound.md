@@ -1,7 +1,7 @@
 # Amplitude & Time
 - In the real world, sound is produced by vibrations which cause waves to travel through the air.
 - To represent this digitally, a microphone’s transducer converts these sound waves into a voltage which is sampled a certain number of times each second. This is the ‘amplitude’ of the audio and the number of times a value is taken is referred to as the ‘sample rate’ of an audio recording.
-- The sample rate is measured in Hz. In the screenshot above, the sample rate of the audio file is 96,000Hz which means each second there are 96,000 samples.
+- The sample rate is measured in [[Hertz]]. In the screenshot above, the sample rate of the audio file is 96,000Hz which means each second there are 96,000 samples.
 
 # Bit-Depth
 -  The amplitude values are quantised by an analogue-to-digital converter—this means to make them fit between two minimum/maximum values. 

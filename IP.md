@@ -1,5 +1,5 @@
 #networking 
-# Internet Protocol Address
+# Internet Protocol
 
 - [[IPv4]]
 - [[IPv6]]
