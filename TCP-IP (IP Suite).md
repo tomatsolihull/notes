@@ -1,4 +1,6 @@
-The TCP/IP stack is the set of protocols used by the Internet
+- Stack of protocols used by the internet
+- Is **descriptive**: describes the scopes of protocols used by the internet
+- Developed mid-1970s by Defence Advanced Research Projects Agency at the US Department of Defence
 
 | Layer | Data | Description |
 | -     | -    | -           |
