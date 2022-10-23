@@ -8,4 +8,4 @@
 - The granularity available here is the ‘bit depth’ of the audio recording. The higher the bit-depth, the more faithful to the real frequency the recording will be. A 16-bit recording would be able to store 1 of 65536 (216) values each sample.
 
 # Storage
-Audio filetypes and codecs dictate the amount and type of compression used. The most ubiquitous music file format—*mp3*—is a [[Lossy]] format, while _flac_ is a popular format that is [[Lossless]].
+Audio filetypes and codecs dictate the amount and type of compression used. The most ubiquitous music file format—*mp3*—is a [[Lossy]] format, while _flac_ is a popular format that is [[Lossless]].[]()

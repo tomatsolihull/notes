@@ -20,8 +20,7 @@ More specific term for a group of eight bits
 # Hextet
 Group of sixteen bits
 
-# Conversions
-## [[Denary (Decimal)]] to/from [[Binary]]
+# Converting [[Denary (Decimal)]] to/from [[Binary]]
 $\Large{123_{10} = 01111011_{2}}$
 $$
 \begin{array}{|r|r|r|r|r|r|r|r|}

@@ -1,5 +1,5 @@
 - To store decimal numbers in a [[Binary]] format, it is necessary to convert them to a standardised format. One of the options for doing this is floating point numbers.
-- There are many different standards and formats for storing floating point numbers
+- There are many different [[Standards]] and formats for storing floating point numbers
 
 # IEEE 754
 - Numbers are stored as a fixed length with an exponent and a mantissa element.  
