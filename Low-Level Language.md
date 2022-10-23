@@ -1,0 +1,1 @@
+- Provides little or no abstraction from the underlying [[Assembly#Machine Code]] or [[CPU#Instruction Set]]

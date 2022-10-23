@@ -1,12 +1,12 @@
 # Assembly
-- Language that sits very close to Machine Code.
+- A [[Low-Level Language]] that sits very close to Machine Code.
 - Assembled into Machine Code by an **Assembler**
 - Usually instructions are similar to the CPU's [[CPU#Instruction Set]]
 
 # Machine Code
 - Language of machine-language instructions
 - Numerical only (translated to [[Binary]])
-- Usually written in higher-level languages and then compiled
+- Usually written in [[High-Level Language]]es (or ASM) and then compiled
 
 # Opcodes
 Specifies the action to be performed

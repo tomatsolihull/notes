@@ -2,7 +2,7 @@ Base 8 ([[Positional Numeral System]])
 
 One octal digit = 3 bits
 
-# Converting [[Denary (Decimal)]] to [[Octal]]
+# Converting [[Denary (Decimal)]] to [[Octal (Base 8)]]
 $\Large{12858_{10}} = 31072_{8}$
 
 $$

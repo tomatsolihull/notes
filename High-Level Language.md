@@ -1,0 +1,2 @@
+- Programming language where there is a large amount of abstraction from the underlying details and workings of the CPU, unlike [[Assembly]].
+- Needs to be ran through a [[Compiler]] or [[Interpreter]] to be converted into [[Assembly#Machine Code]]

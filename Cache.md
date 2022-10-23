@@ -1,0 +1,1 @@
+A [[Storage Medium]] or location for storing frequently-accessed data

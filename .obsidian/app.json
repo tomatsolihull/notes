@@ -10,7 +10,7 @@
   "newLinkFormat": "absolute",
   "useMarkdownLinks": false,
   "showUnsupportedFiles": true,
-  "attachmentFolderPath": "./",
+  "attachmentFolderPath": "./attachments",
   "alwaysUpdateLinks": true,
   "promptDelete": false,
   "pdfExportSettings": {
