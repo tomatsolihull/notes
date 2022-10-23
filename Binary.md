@@ -1,4 +1,4 @@
-Binary is a Base-2 [[Positional Numeral Systems]] and is the way computers fundamentally store data at the lowest level.
+Binary is a Base-2 [[Positional Numeral System]] and is the way computers fundamentally store data at the lowest level.
 
 # Bit
 - Lowest and most basic way of representing information in computing

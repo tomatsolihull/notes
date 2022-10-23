@@ -1,7 +1,7 @@
 #networking
 # Transmission Control Protocol
 
-- [[Packets]] sent are acknowledged and checked, resent if required, unlike [[UDP]]
+- [[Packet]] sent are acknowledged and checked, resent if required, unlike [[UDP]]
  
 ## Handshake Process 🤝
 ### 1. SYN $\rightarrow$

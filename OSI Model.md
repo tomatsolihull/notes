@@ -9,6 +9,6 @@
 | 6 | Presentation | AFP, NHP, X.25 | |
 | 5 | Session | NetBIOS, PPTP, SOCKS | |
 | 4 | Transport | [[TCP]], [[UDP]] | [[Segments]] | |
-| 3 | Network | [[IPv4]], [[IPv6]], IPsec, ICMP/IGMP, ARP| [[Packets]] |
-| 2 | Data Link | CDP, MPLS, [[Ethernet]], [[Wi-Fi]] | [[Frames]] |
+| 3 | Network | [[IPv4]], [[IPv6]], IPsec, ICMP/IGMP, ARP| [[Packet]] |
+| 2 | Data Link | CDP, MPLS, [[Ethernet]], [[Wi-Fi]] | [[Frame]] |
 | 1 | Physical | IRDA, DSL, ISDN, Bluetooth, Ethernet Physical, Wi-Fi Physical | [[Binary#Bit]] |

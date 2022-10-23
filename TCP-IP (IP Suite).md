@@ -10,5 +10,5 @@
 | -     | -    | -           |
 | Application | Data | Information created by an application, including session data |
 | Transport | [[TCP]]/[[UDP]] | TCP/UDP [[Segments]] |
-| Internet | [[IP]] | IP [[Packets]] between interconnected independent networks |
+| Internet | [[IP]] | IP [[Packet]] between interconnected independent networks |
 | Link | Frame | TCP/IP sets no standards for media-level frames and assumes a working network |

@@ -1,4 +1,4 @@
-Base 16 ([[Positional Numeral Systems]])
+Base 16 ([[Positional Numeral System]])
 
 One base 16 digit (0-F) represents 4 bits
 

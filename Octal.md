@@ -1,4 +1,4 @@
-Base 8 ([[Positional Numeral Systems]])
+Base 8 ([[Positional Numeral System]])
 
 One octal digit = 3 bits
 

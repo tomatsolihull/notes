@@ -1,6 +1,6 @@
 # Internet Engineering Task Force
 
-- International [[Standards]] organisation for the Internet, responsible for the [[TCP-IP (IP Suite)]] standards
+- International [[Standard]] organisation for the Internet, responsible for the [[TCP-IP (IP Suite)]] standards
 - Founded 1986
 
 [Wikipedia](https://en.wikipedia.org/wiki/Internet_Engineering_Task_Force)

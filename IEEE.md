@@ -1,6 +1,6 @@
 # Institute of Electrical and Electronics Engineers 
 
-- International [[Standards]] organisation
+- International [[Standard]] organisation
 - Founded 1963
 
 [Wikipedia](https://en.wikipedia.org/wiki/Institute_of_Electrical_and_Electronics_Engineers)
