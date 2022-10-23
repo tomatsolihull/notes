@@ -1,3 +1,6 @@
+#networking
+# Internet Protocol version 6
+
 - No subnet masks, only uses [[Slash Notation]]
 - Broken up into eight 'hextets' (16-bits each) and written in [[Hexadecimal]]
 - 128 bits long

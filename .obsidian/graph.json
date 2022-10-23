@@ -5,9 +5,17 @@
   "showAttachments": false,
   "hideUnresolved": false,
   "showOrphans": true,
-  "collapse-color-groups": true,
-  "colorGroups": [],
-  "collapse-display": false,
+  "collapse-color-groups": false,
+  "colorGroups": [
+    {
+      "query": "tag:#networking",
+      "color": {
+        "a": 1,
+        "rgb": 57855
+      }
+    }
+  ],
+  "collapse-display": true,
   "showArrow": false,
   "textFadeMultiplier": 0,
   "nodeSizeMultiplier": 1,
@@ -17,6 +25,6 @@
   "repelStrength": 9.27083333333333,
   "linkStrength": 0.75,
   "linkDistance": 250,
-  "scale": 0.7132754626224529,
-  "close": true
+  "scale": 0.7132754626224532,
+  "close": false
 }

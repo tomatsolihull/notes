@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "149962ef94f16df6",
+        "id": "e2e50307d40beaca",
         "type": "tabs",
         "children": [
           {
-            "id": "965a797854ac519a",
+            "id": "33ff90d69c411d1c",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -18,45 +18,8 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "c97810aebbed0044",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "IP Address.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "f7aedcb641036a6f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "IPv6.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "d84ba229c67a713f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "IPv4.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
         ],
-        "currentTab": 2,
         "stacked": true
       }
     ],
@@ -86,7 +49,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#networking",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -123,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "IPv6.md",
+                "file": "DHCP.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -140,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "IPv6.md",
+                "file": "DHCP.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -163,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "IPv6.md"
+                "file": "DHCP.md"
               }
             }
           }
@@ -177,17 +140,17 @@
   "ribbon": {
     "mostRecentAction": ""
   },
-  "active": "f7aedcb641036a6f",
+  "active": "33ff90d69c411d1c",
   "lastOpenFiles": [
-    "IP Address.md",
-    "IPv4.md",
-    "DHCP.md",
-    "Denary (Decimal).md",
-    "UDP.md",
     "Algorithm.md",
-    "TCP.md",
+    "UDP.md",
     "TCP-IP (IP Suite).md",
-    "OSI Model.md",
-    "Floating Point Numbers.md"
+    "TCP.md",
+    "Standards.md",
+    "Sound.md",
+    "SI.md",
+    "README.md",
+    "Positional Numeral Systems.md",
+    "OSI Model.md"
   ]
 }

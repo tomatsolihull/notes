@@ -1,3 +1,4 @@
+#networking
 # Dynamic Host Configuration Protocol
 
 - Distributes [[IP Address]]es and other information to hosts on a network
