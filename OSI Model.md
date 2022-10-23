@@ -1,4 +1,4 @@
-- Is **prescriptive**: sets out where certain protocols used within any network fall
+- Is **prescriptive**: sets out where certain protocols used within any network fall (unlike [[TCP-IP (IP Suite)]])
 - Created Late-1970s by the Open Systems Interconnection Group at the ISO
 
 | # | Layer | Protocols | Datagram |

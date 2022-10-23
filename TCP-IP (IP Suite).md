@@ -1,5 +1,5 @@
 - Stack of protocols used by the internet
-- Is **descriptive**: describes the scopes of protocols used by the internet
+- Is **descriptive**: describes the scopes of protocols used by the internet (unlike [[OSI Model]])
 - Developed mid-1970s by Defence Advanced Research Projects Agency at the US Department of Defence
 
 | Layer | Data | Description |
