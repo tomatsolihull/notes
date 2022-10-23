@@ -11,12 +11,8 @@
             "id": "b828ca788481652b",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Binary Conversions.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "graph",
+              "state": {}
             }
           }
         ],
@@ -86,7 +82,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Binary Conversions.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +98,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Binary Conversions.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,9 +119,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Binary Conversions.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -142,14 +134,14 @@
   },
   "active": "b828ca788481652b",
   "lastOpenFiles": [
-    "Floating Point Numbers.md",
-    "Binary Conversions.md",
-    "Binary.md",
-    "BTEC Nationals Information Technology (2010).md",
     "Compression.md",
+    "BTEC Nationals Information Technology (2010).md",
+    "Binary Conversions.md",
+    "Floating Point Numbers.md",
+    "Denary (Decimal).md",
     "Counting Systems.md",
     "Octal & Hexadecimal.md",
-    "Denary (Decimal).md",
+    "Binary.md",
     "Algorithm.md",
     "Sound.md"
   ]
