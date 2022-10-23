@@ -134,15 +134,15 @@
   },
   "active": "19584b37e1748836",
   "lastOpenFiles": [
+    "IEEE.md",
+    "Floating Point Numbers.md",
+    "Binary.md",
     "IANA.md",
     "MAC Address.md",
     "IPv4.md",
     "IP.md",
     "ICANN.md",
     "MAC.md",
-    "Binary.md",
-    "Octal (Base 8).md",
-    "Interpreter.md",
-    "Assembly.md"
+    "Octal (Base 8).md"
   ]
 }

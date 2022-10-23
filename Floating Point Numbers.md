@@ -10,9 +10,10 @@
 - **Octuple** = 256 bits = binary256
 
 # Converting [[Binary]] to Singles
-$\Large{111110100.011111_{2} = 01000011111111010001111100000000_{\text{IEEE 754 binary32}}}$
+$\Large{111110100.011111_{\text{Base 2}} = 01000011111111010001111100000000_{\text{IEEE 754 binary32}}}$
 ## 1. Normalising
-The first step is **normalising**. This is moving the decimal point as far to the left as possible, similar to scientific notation.
+The first step is **normalising**.
+This is moving the decimal point as far to the left as possible, similar to scientific notation.
 
 $111110100.011111 \times 2^0 \to 1.11110100011111 \times 2^8$
 Where the new exponent $8$ is because we've moved the decimal point eight places to the left.

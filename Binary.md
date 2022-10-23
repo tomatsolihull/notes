@@ -43,10 +43,12 @@ $$
 = 123
 $$
 
-### Decimal Points
-$\Large{123_{10} = 01100.1100_{2}}$
+### Decimal Points (Base 2)
+See Also: [[Floating Point Numbers]]
 
-$$\textbf{Before Decimal = 12}$$
+$\Large{12.75_{10} = 01100.1100_{2}}$
+
+$$\textbf{Before Decimal (12)}$$
 $$
 \begin{array}{|r|r|r|r|}
 \hline
@@ -56,7 +58,7 @@ $$
 \hline
 \end{array}
 $$
-$$\textbf{After Decimal = 0.75}$$
+$$\textbf{After Decimal (0.75)}$$
 $$
 \begin{array}{|r|r|r|}
 \hline
@@ -67,7 +69,11 @@ $$
 \end{array}
 $$
 
-$8 + 4 = 12$
-$0.5 + 0.25 = 0.75$
-
-$12 + 0.75 = 12.75$
+$$
+\begin{array}{r}
+8+4 = \textbf{12.00} & & \text{Before Decimal}\\
+0.5+0.25 = \textbf{00.75} & +  & \text{After Decimal}\\
+\hline
+\textbf{12.75} & = & \text{Decimal Num}
+\end{array}
+$$
