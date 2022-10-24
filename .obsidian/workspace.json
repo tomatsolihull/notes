@@ -103,6 +103,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Floating Point Numbers.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -119,6 +120,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Floating Point Numbers.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -140,7 +142,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Floating Point Numbers.md"
+              }
             }
           }
         ]
@@ -152,12 +156,12 @@
   "ribbon": {
     "mostRecentAction": ""
   },
-  "active": "ca5183f574f9d144",
+  "active": "34af5864152e5ef3",
   "lastOpenFiles": [
+    "Binary.md",
     "Floating Point Numbers.md",
     "Algorithm.md",
     "Assembly.md",
-    "Binary.md",
     "Bandwidth.md",
     "DHCP.md",
     "Compiler.md",
