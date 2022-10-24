@@ -1,0 +1,5 @@
+- Writing down 'concepts' and ideas with limited structure and hierarchy, connected together by the links between them
+- Can explore interesting links between topics
+- Doesn't try to shoehorn ideas into categories
+- No need to stick to a sequential order (eg, how a tutor presented information)
+- Inspired by and demonstrated in [this video](https://youtu.be/MYJsGksojms) (thanks Lewis)
