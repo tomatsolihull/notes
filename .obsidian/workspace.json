@@ -4,17 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "caa1ff2c10b4cc61",
+        "id": "e0b2ac34aef3152f",
         "type": "tabs",
         "children": [
           {
-            "id": "ef3ead0f27acf0d0",
+            "id": "ca5183f574f9d144",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Compiler.md",
+                "file": "Algorithm.md",
                 "mode": "source",
+                "backlinks": false,
                 "source": false
               }
             }
@@ -86,9 +87,9 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Compiler.md",
-                "collapseAll": false,
-                "extraContext": false,
+                "file": "Algorithm.md",
+                "collapseAll": true,
+                "extraContext": true,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
                 "searchQuery": "",
@@ -103,7 +104,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Compiler.md",
+                "file": "Algorithm.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +127,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Compiler.md"
+                "file": "Algorithm.md"
               }
             }
           }
@@ -134,23 +135,22 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 265.5
   },
   "ribbon": {
     "mostRecentAction": ""
   },
-  "active": "ef3ead0f27acf0d0",
+  "active": "ca5183f574f9d144",
   "lastOpenFiles": [
+    "Assembly.md",
+    "Binary.md",
+    "Bandwidth.md",
+    "Algorithm.md",
+    "DHCP.md",
+    "Floating Point Numbers.md",
+    "Compiler.md",
     "Conceptual.md",
     "OSI Layer 2 (Data Link).md",
-    "OSI Layer 1 (Physical).md",
-    "DNS.md",
-    "Frame.md",
-    "Packet.md",
-    "MAC.md",
-    "OSI Model.md",
-    "OSI Layer 3 (Network).md",
-    "OSI Layer 4 (Transport).md"
+    "OSI Layer 1 (Physical).md"
   ]
 }

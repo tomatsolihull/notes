@@ -1,8 +1,11 @@
 {
   "accentColor": "#d71027",
   "theme": "system",
-  "monospaceFontFamily": "Comic Mono",
+  "monospaceFontFamily": "Comic Mono,CMU Typewriter Text",
   "translucency": true,
-  "interfaceFontFamily": "",
-  "textFontFamily": "CMU Sans Serif Roman"
+  "interfaceFontFamily": "CMU Bright",
+  "textFontFamily": "CMU Sans Serif,CMU Serif",
+  "baseFontSize": 18,
+  "showViewHeader": true,
+  "nativeMenus": false
 }
