@@ -134,15 +134,15 @@
   },
   "active": "19584b37e1748836",
   "lastOpenFiles": [
-    "Conceptual.md",
-    "README.md",
-    "Channel Access Method.md",
-    "WAN.md",
-    "IEEE.md",
-    "Floating Point Numbers.md",
-    "Binary.md",
-    "IANA.md",
-    "MAC Address.md",
-    "IPv4.md"
+    "OSI Layer 2 (Data Link).md",
+    "OSI Layer 1 (Physical).md",
+    "DNS.md",
+    "Frame.md",
+    "Packet.md",
+    "MAC.md",
+    "OSI Model.md",
+    "OSI Layer 3 (Network).md",
+    "OSI Layer 4 (Transport).md",
+    "OSI Layer 7 (Application).md"
   ]
 }
