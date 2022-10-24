@@ -4,15 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "2e78a4623523aba7",
+        "id": "caa1ff2c10b4cc61",
         "type": "tabs",
         "children": [
           {
-            "id": "19584b37e1748836",
+            "id": "ef3ead0f27acf0d0",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Compiler.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ],
@@ -82,6 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Compiler.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -98,6 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Compiler.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -119,7 +125,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Compiler.md"
+              }
             }
           }
         ]
@@ -132,8 +140,9 @@
   "ribbon": {
     "mostRecentAction": ""
   },
-  "active": "19584b37e1748836",
+  "active": "ef3ead0f27acf0d0",
   "lastOpenFiles": [
+    "Conceptual.md",
     "OSI Layer 2 (Data Link).md",
     "OSI Layer 1 (Physical).md",
     "DNS.md",
@@ -142,7 +151,6 @@
     "MAC.md",
     "OSI Model.md",
     "OSI Layer 3 (Network).md",
-    "OSI Layer 4 (Transport).md",
-    "OSI Layer 7 (Application).md"
+    "OSI Layer 4 (Transport).md"
   ]
 }

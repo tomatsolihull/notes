@@ -2,5 +2,7 @@
   "accentColor": "#d71027",
   "theme": "system",
   "monospaceFontFamily": "Comic Mono",
-  "translucency": true
+  "translucency": true,
+  "interfaceFontFamily": "",
+  "textFontFamily": "CMU Sans Serif Roman"
 }
