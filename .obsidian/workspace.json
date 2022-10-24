@@ -6,22 +6,38 @@
       {
         "id": "e0b2ac34aef3152f",
         "type": "tabs",
+        "dimension": 34.707903780068726,
         "children": [
           {
             "id": "ca5183f574f9d144",
             "type": "leaf",
             "state": {
+              "type": "graph",
+              "state": {}
+            }
+          }
+        ],
+        "stacked": true
+      },
+      {
+        "id": "d4fe4b498e45d8c1",
+        "type": "tabs",
+        "dimension": 65.29209621993127,
+        "children": [
+          {
+            "id": "34af5864152e5ef3",
+            "type": "leaf",
+            "state": {
               "type": "markdown",
               "state": {
-                "file": "Algorithm.md",
+                "file": "Floating Point Numbers.md",
                 "mode": "source",
                 "backlinks": false,
                 "source": false
               }
             }
           }
-        ],
-        "stacked": true
+        ]
       }
     ],
     "direction": "vertical"
@@ -71,7 +87,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 276.0110321044922
   },
   "right": {
     "id": "f5812b7eb67a16fd",
@@ -87,7 +103,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Algorithm.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -104,7 +119,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Algorithm.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,28 +140,26 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Algorithm.md"
-              }
+              "state": {}
             }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 265.5
+    "width": 200
   },
   "ribbon": {
     "mostRecentAction": ""
   },
   "active": "ca5183f574f9d144",
   "lastOpenFiles": [
+    "Floating Point Numbers.md",
+    "Algorithm.md",
     "Assembly.md",
     "Binary.md",
     "Bandwidth.md",
-    "Algorithm.md",
     "DHCP.md",
-    "Floating Point Numbers.md",
     "Compiler.md",
     "Conceptual.md",
     "OSI Layer 2 (Data Link).md",
