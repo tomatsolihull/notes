@@ -10,7 +10,9 @@
 - **Octuple** = 256 bits = binary256
 
 # Converting [[Binary]] to Singles
-$\Large{111110100.011111_{\text{Base 2}} = 01000011111111010001111100000000_{\text{IEEE 754 binary32}}}$
+$\Large{111110100.011111_{\text{Base 2}}}$
+$\Large{= 01000011111111010001111100000000_{\text{IEEE 754 binary32}}}$
+
 ## 1. Normalising
 The first step is **normalising**.
 This is moving the decimal point as far to the left as possible, similar to scientific notation.
@@ -31,9 +33,9 @@ A 32-bit number must be 32 bits long.
 The **sign** is a single bit that indicates whether the number is positive or negative.
 0 = positive, 1 = negative.
 
-The **exponent*** is eight bits long.
+The **exponent** is eight bits long.
 
-The **mantissa*** is twenty three bits long. It is also known as the fraction portion.
+The **mantissa** is twenty three bits long. It is also known as the fraction portion.
 It must be [padded with zeros](https://github.com/tomatsolihull/scripts-etc/blob/master/mantissa23padding.js) at the end to make it 23 bits long.
 
 $$
