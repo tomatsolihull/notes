@@ -4,15 +4,20 @@
     "type": "split",
     "children": [
       {
-        "id": "e0b2ac34aef3152f",
+        "id": "5e15c46575681449",
         "type": "tabs",
         "children": [
           {
-            "id": "ca5183f574f9d144",
+            "id": "ae3fe4883881907e",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "USB.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
             }
           }
         ],
@@ -82,6 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "USB.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -98,6 +104,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "USB.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -119,7 +126,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "USB.md"
+              }
             }
           }
         ],
@@ -132,17 +141,17 @@
   "ribbon": {
     "mostRecentAction": ""
   },
-  "active": "ca5183f574f9d144",
+  "active": "ae3fe4883881907e",
   "lastOpenFiles": [
+    "Interrupts.md",
+    "Collisons.md",
+    "USB.md",
+    "Polling.md",
     "penis.md",
     "willy.md",
     "Floating Point Numbers.md",
     "Binary.md",
     "Algorithm.md",
-    "Assembly.md",
-    "Bandwidth.md",
-    "DHCP.md",
-    "Compiler.md",
-    "Conceptual.md"
+    "Assembly.md"
   ]
 }
