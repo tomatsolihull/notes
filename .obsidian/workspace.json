@@ -4,15 +4,20 @@
     "type": "split",
     "children": [
       {
-        "id": "5e15c46575681449",
+        "id": "e0b2ac34aef3152f",
         "type": "tabs",
         "children": [
           {
-            "id": "ae3fe4883881907e",
+            "id": "ca5183f574f9d144",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Fetch, Decode, Execute Cycle.md",
+                "mode": "source",
+                "backlinks": false,
+                "source": false
+              }
             }
           }
         ],
@@ -66,7 +71,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 276.0110321044922
+    "width": 201.5110321044922
   },
   "right": {
     "id": "f5812b7eb67a16fd",
@@ -82,6 +87,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Fetch, Decode, Execute Cycle.md",
                 "collapseAll": true,
                 "extraContext": true,
                 "sortOrder": "alphabetical",
@@ -98,6 +104,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Fetch, Decode, Execute Cycle.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -119,7 +126,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Fetch, Decode, Execute Cycle.md"
+              }
             }
           }
         ],
@@ -129,20 +138,17 @@
     "direction": "horizontal",
     "width": 200
   },
-  "ribbon": {
-    "mostRecentAction": ""
-  },
-  "active": "ae3fe4883881907e",
+  "active": "ca5183f574f9d144",
   "lastOpenFiles": [
-    "USB.md",
-    "Interrupts.md",
-    "Collisons.md",
-    "Polling.md",
-    "penis.md",
-    "willy.md",
+    "CPU.md",
     "Floating Point Numbers.md",
     "Binary.md",
     "Algorithm.md",
-    "Assembly.md"
+    "Assembly.md",
+    "Bandwidth.md",
+    "DHCP.md",
+    "Compiler.md",
+    "Conceptual.md",
+    "OSI Layer 2 (Data Link).md"
   ]
 }
