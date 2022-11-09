@@ -4,22 +4,86 @@
     "type": "split",
     "children": [
       {
-        "id": "22ab4c1c64066d9e",
-        "type": "tabs",
+        "id": "e58bc9ff861170c7",
+        "type": "split",
         "children": [
           {
-            "id": "2f62974a2d3d1d3f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Denary (Decimal).md",
-                "mode": "preview",
-                "source": true
+            "id": "e429d339c6908e16",
+            "type": "split",
+            "children": [
+              {
+                "id": "22ab4c1c64066d9e",
+                "type": "tabs",
+                "children": [
+                  {
+                    "id": "2f62974a2d3d1d3f",
+                    "type": "leaf",
+                    "state": {
+                      "type": "markdown",
+                      "state": {
+                        "file": "Floating Point Numbers.md",
+                        "mode": "preview",
+                        "source": true
+                      }
+                    }
+                  }
+                ]
+              },
+              {
+                "id": "52ee3f40e02e8b79",
+                "type": "tabs",
+                "children": [
+                  {
+                    "id": "eba78256fdfa6a14",
+                    "type": "leaf",
+                    "state": {
+                      "type": "markdown",
+                      "state": {
+                        "file": "Standard.md",
+                        "mode": "preview",
+                        "source": true
+                      }
+                    }
+                  }
+                ]
               }
-            }
+            ],
+            "direction": "vertical"
+          },
+          {
+            "id": "b554515a90671d26",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "36cddfc2153131e2",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "IEEE.md",
+                    "mode": "preview",
+                    "source": true
+                  }
+                }
+              }
+            ]
+          },
+          {
+            "id": "358e690f9d84dcb8",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "9d65fc1f7b500f2f",
+                "type": "leaf",
+                "state": {
+                  "type": "graph",
+                  "state": {}
+                }
+              }
+            ]
           }
-        ]
+        ],
+        "direction": "horizontal"
       }
     ],
     "direction": "vertical"
@@ -85,7 +149,6 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Denary (Decimal).md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -102,7 +165,6 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Denary (Decimal).md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -113,20 +175,19 @@
         "type": "leaf",
         "state": {
           "type": "outline",
-          "state": {
-            "file": "Denary (Decimal).md"
-          }
+          "state": {}
         }
       }
     ],
     "currentTab": 0
   },
-  "ribbon": {
-    "mostRecentAction": "Open graph view"
-  },
-  "active": "5872c4c46afff693",
+  "active": "9d65fc1f7b500f2f",
   "lastOpenFiles": [
-    "Bandwidth.md",
-    "Binary.md"
+    "Binary.md",
+    "Floating Point Numbers.md",
+    "IEEE.md",
+    "Standard.md",
+    "Denary (Decimal).md",
+    "Bandwidth.md"
   ]
 }
