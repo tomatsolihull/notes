@@ -1,0 +1,2 @@
+- Programming language where there is a large amount of abstraction from the underlying details and workings of the CPU, unlike [[zk/Assembly]].
+- Needs to be ran through a [[zk/Compiler]] or [[zk/Interpreter]] to be converted into [[zk/Assembly#Machine Code]]

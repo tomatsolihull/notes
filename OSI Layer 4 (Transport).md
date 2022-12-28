@@ -1,5 +1,0 @@
-#networking
-
-[[TCP]], [[UDP]]
-
-[[Segments]]
